@@ -1,7 +1,7 @@
 {
   "name": "grunt-bower-libs-copy",
   "version": "0.1.0",
-  "description": "0.1.0",
+  "description": "Copy external web project libs use config.js, update pathes to bower installed libs version and copy it to destination",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -9,8 +9,8 @@
   },
   "keywords": [
     "git",
-    "bower",
-    "requirejs"
+    "bower.js",
+    "require.js"
   ],
   "author": "Andy Kononenko (andy.kono@gmail.com)",
   "license": "MIT",
