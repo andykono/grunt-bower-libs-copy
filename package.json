@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/andykono/grunt-bower-libs-copy/issues"
   },
-  "homepage": "https://github.com/andykono/grunt-bower-libs-copy"
+  "homepage": "https://github.com/andykono/grunt-bower-libs-copy",
+  "devDependencies": {
+    "grunt": "~0.4.5"
+  }
 }

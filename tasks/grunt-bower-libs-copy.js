@@ -39,7 +39,7 @@ module.exports = function (grunt) {
         return part + pathArray.join("/");
     };
 
-    grunt.registerTask("externalLibsCopy", "copy external libs installed with bower and update path in confog.js", function () {
+    grunt.registerTask("bowerLibsCopy", "copy external libs installed with bower and update path in config.js", function () {
         var options = this.options();
         //get config data
         grunt.file.copy(options.srcDirectory +"/"+ options.configFile,options.destDirectory +"/"+ options.configFile,{
