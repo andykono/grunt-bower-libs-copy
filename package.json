@@ -1,0 +1,21 @@
+{
+  "name": "grunt-bower-libs-copy",
+  "version": "0.1.0",
+  "description": "0.1.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andykono/grunt-bower-libs-copy"
+  },
+  "keywords": [
+    "git",
+    "bower",
+    "requirejs"
+  ],
+  "author": "Andy Kononenko (andy.kono@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andykono/grunt-bower-libs-copy/issues"
+  },
+  "homepage": "https://github.com/andykono/grunt-bower-libs-copy"
+}
