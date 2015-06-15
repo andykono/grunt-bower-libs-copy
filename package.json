@@ -2,7 +2,7 @@
   "name": "grunt-bower-libs-copy",
   "version": "0.1.0",
   "description": "Copy external web project libs use config.js, update pathes to bower installed libs version and copy it to destination",
-  "main": "index.js",
+  "main": "Gruntfile.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/andykono/grunt-bower-libs-copy"
